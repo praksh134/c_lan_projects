@@ -1,4 +1,5 @@
-/* numbers handling in c */
+/* example of integers
+ * write a program to add two numbers in c */
 
 #include <stdio.h>
 
